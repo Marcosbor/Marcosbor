@@ -1,6 +1,6 @@
 ## Olá Eu sou Marcos borges
 
-<b>No momento estou aprenedo o basico da progamação<b> 
+<b>No momento estou aprendedo o basico da progamação<b> 
    <br>
    <br>
   pretendo Fazer Faculdade de Engenharia de software 
